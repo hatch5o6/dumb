@@ -4,3 +4,5 @@ def myProgram(myList):
 			print(a)
 
 myProgram(['arnold', 'bethany', 'ryan', 'ronald', 'john', 'rag'])
+
+#this program is really dumb
