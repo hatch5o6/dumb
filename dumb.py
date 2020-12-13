@@ -1,6 +1,6 @@
 def myProgram(myList):
 	for a in myList:
-		if a[0] == 'j':
+		if a[0] == 'b':
 			print(a)
 
 myProgram(['arnold', 'bethany', 'ryan', 'ronald', 'john', 'rag'])
